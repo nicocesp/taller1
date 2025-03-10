@@ -137,8 +137,6 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-console.log("----------------------------------------------------------------")
-
 let numeros = [];
 let contador = 0;
 
@@ -299,9 +297,6 @@ let rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-
-console.log("-------------------------------------------------")
-
 
 let emitePitido, discoGira;
 
